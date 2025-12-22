@@ -6,11 +6,12 @@ sites:
   - name: Plex Auth
     url: https://app.plex.tv/auth
   - name: Plex
-    url: https://en.wikipedia.org
+    url: https://acts-horizon.com
+    port: 32444
   - name: Jellyfin
-    url: https://news.ycombinator.com
+    url: https://jellyfin.acts-horizon.com
   - name: Overseerr
-    url: https://thissitedoesnotexist.koj.co
+    url: https://request.acts-horizon.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
