@@ -22,9 +22,9 @@
     "url": "https://acts-horizon.com",
     "icon": "https://icons.duckduckgo.com/ip3/acts-horizon.com.ico",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 190,
     "timeMonth": 237,
     "timeYear": 237,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-14": 0
+    }
   },
   {
     "name": "Jellyfin",
     "url": "https://jellyfin.acts-horizon.com",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.acts-horizon.com.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,14 +53,16 @@
     "timeWeek": 197,
     "timeMonth": 265,
     "timeYear": 265,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-14": 0
+    }
   },
   {
     "name": "Overseerr",
     "url": "https://request.acts-horizon.com",
     "icon": "https://icons.duckduckgo.com/ip3/request.acts-horizon.com.ico",
     "slug": "overseerr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +73,8 @@
     "timeWeek": 424,
     "timeMonth": 543,
     "timeYear": 543,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-14": 0
+    }
   }
 ]
