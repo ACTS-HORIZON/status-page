@@ -4,19 +4,19 @@
     "url": "https://app.plex.tv/auth",
     "icon": "https://icons.duckduckgo.com/ip3/app.plex.tv.ico",
     "slug": "plex-auth",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 107,
-    "timeWeek": 156,
-    "timeMonth": 144,
-    "timeYear": 131,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 133,
+    "timeDay": 159,
+    "timeWeek": 163,
+    "timeMonth": 146,
+    "timeYear": 133,
     "dailyMinutesDown": {
-      "2026-02-06": 0
+      "2026-02-06": 20
     }
   },
   {
