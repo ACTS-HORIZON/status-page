@@ -65,18 +65,19 @@
     "url": "https://request.acts-horizon.com",
     "icon": "https://icons.duckduckgo.com/ip3/request.acts-horizon.com.ico",
     "slug": "overseerr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 542,
-    "timeDay": 419,
-    "timeWeek": 653,
-    "timeMonth": 572,
-    "timeYear": 542,
+    "time": 560,
+    "timeDay": 1808,
+    "timeWeek": 971,
+    "timeMonth": 657,
+    "timeYear": 560,
     "dailyMinutesDown": {
+      "2026-05-14": 0,
       "2026-01-14": 74
     }
   }
