@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 126,
-    "timeDay": 45,
-    "timeWeek": 73,
+    "timeDay": 105,
+    "timeWeek": 70,
     "timeMonth": 104,
     "timeYear": 126,
     "dailyMinutesDown": {
@@ -31,13 +31,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 232,
-    "timeDay": 214,
-    "timeWeek": 228,
-    "timeMonth": 216,
+    "timeDay": 131,
+    "timeWeek": 206,
+    "timeMonth": 212,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2026-04-02": 22,
-      "2026-01-14": 74
+      "2026-01-14": 74,
+      "2026-04-02": 22
     }
   },
   {
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 290,
-    "timeDay": 394,
-    "timeWeek": 429,
-    "timeMonth": 354,
-    "timeYear": 290,
+    "time": 291,
+    "timeDay": 395,
+    "timeWeek": 421,
+    "timeMonth": 357,
+    "timeYear": 291,
     "dailyMinutesDown": {
       "2026-01-14": 74
     }
@@ -66,18 +66,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/request.acts-horizon.com.ico",
     "slug": "overseerr",
     "status": "down",
-    "uptime": "93.77%",
+    "uptime": "93.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.03%",
-    "uptimeYear": "93.77%",
-    "time": 726,
-    "timeDay": 3198,
-    "timeWeek": 3191,
-    "timeMonth": 1503,
-    "timeYear": 726,
+    "uptimeMonth": "65.74%",
+    "uptimeYear": "93.16%",
+    "time": 741,
+    "timeDay": 3117,
+    "timeWeek": 3177,
+    "timeMonth": 1580,
+    "timeYear": 741,
     "dailyMinutesDown": {
-      "2026-05-24": 22,
+      "2026-01-14": 74,
+      "2026-05-25": 24,
+      "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -87,8 +89,7 @@
       "2026-05-17": 1440,
       "2026-05-16": 1440,
       "2026-05-15": 1440,
-      "2026-05-14": 585,
-      "2026-01-14": 74
+      "2026-05-14": 585
     }
   }
 ]
