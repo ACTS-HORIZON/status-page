@@ -24,11 +24,11 @@
     "url": "https://acts-horizon.com",
     "icon": "https://icons.duckduckgo.com/ip3/acts-horizon.com.ico",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.94%",
     "time": 229,
     "timeDay": 256,
@@ -38,7 +38,8 @@
     "dailyMinutesDown": {
       "2026-01-14": 74,
       "2026-04-02": 22,
-      "2026-05-27": 65
+      "2026-05-27": 65,
+      "2026-06-30": 10
     }
   },
   {
@@ -46,12 +47,12 @@
     "url": "https://jellyfin.acts-horizon.com",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.acts-horizon.com.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "97.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.75%",
-    "uptimeYear": "97.84%",
+    "status": "down",
+    "uptime": "97.85%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "97.41%",
+    "uptimeYear": "97.85%",
     "time": 363,
     "timeDay": 487,
     "timeWeek": 407,
@@ -63,7 +64,8 @@
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
-      "2026-05-27": 604
+      "2026-05-27": 604,
+      "2026-06-30": 5
     }
   },
   {
@@ -72,11 +74,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/request.acts-horizon.com.ico",
     "slug": "overseerr",
     "status": "down",
-    "uptime": "75.43%",
+    "uptime": "75.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.43%",
+    "uptimeYear": "75.10%",
     "time": 1191,
     "timeDay": 3212,
     "timeWeek": 3176,
@@ -84,7 +86,7 @@
     "timeYear": 1191,
     "dailyMinutesDown": {
       "2026-01-14": 74,
-      "2026-06-30": 26,
+      "2026-06-30": 1195,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
