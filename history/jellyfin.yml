@@ -1,7 +1,7 @@
 url: https://jellyfin.acts-horizon.com
-status: down
-code: 503
-responseTime: 3092
-lastUpdated: 2026-11-24T06:49:40.741Z
+status: up
+code: 200
+responseTime: 327
+lastUpdated: 2026-11-24T21:28:02.524Z
 startTime: 2025-12-22T21:20:11.174Z
 generator: Upptime <https://github.com/upptime/upptime>
