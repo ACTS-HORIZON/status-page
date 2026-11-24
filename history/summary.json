@@ -50,16 +50,16 @@
     "url": "https://jellyfin.acts-horizon.com",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.acts-horizon.com.ico",
     "slug": "jellyfin",
-    "status": "down",
-    "uptime": "97.22%",
-    "uptimeDay": "76.16%",
-    "uptimeWeek": "96.59%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "97.22%",
+    "status": "up",
+    "uptime": "97.06%",
+    "uptimeDay": "17.61%",
+    "uptimeWeek": "88.23%",
+    "uptimeMonth": "97.29%",
+    "uptimeYear": "97.06%",
     "time": 439,
-    "timeDay": 3158,
-    "timeWeek": 1161,
-    "timeMonth": 585,
+    "timeDay": 2214,
+    "timeWeek": 1068,
+    "timeMonth": 577,
     "timeYear": 439,
     "dailyMinutesDown": {
       "2026-01-14": 74,
@@ -75,7 +75,7 @@
       "2026-07-01": 1440,
       "2026-06-30": 250,
       "2026-09-12": 96,
-      "2026-11-24": 343
+      "2026-11-24": 1186
     }
   },
   {
@@ -83,17 +83,17 @@
     "url": "https://request.acts-horizon.com",
     "icon": "https://icons.duckduckgo.com/ip3/request.acts-horizon.com.ico",
     "slug": "overseerr",
-    "status": "down",
-    "uptime": "80.51%",
-    "uptimeDay": "76.19%",
-    "uptimeWeek": "96.60%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "80.51%",
-    "time": 1122,
-    "timeDay": 3140,
-    "timeWeek": 1445,
-    "timeMonth": 863,
-    "timeYear": 1122,
+    "status": "up",
+    "uptime": "80.37%",
+    "uptimeDay": "17.63%",
+    "uptimeWeek": "88.23%",
+    "uptimeMonth": "97.29%",
+    "uptimeYear": "80.37%",
+    "time": 1137,
+    "timeDay": 4258,
+    "timeWeek": 2006,
+    "timeMonth": 1033,
+    "timeYear": 1137,
     "dailyMinutesDown": {
       "2026-01-14": 74,
       "2026-07-18": 1155,
@@ -163,7 +163,7 @@
       "2026-05-15": 1440,
       "2026-05-14": 585,
       "2026-09-12": 92,
-      "2026-11-24": 343
+      "2026-11-24": 1186
     }
   }
 ]
